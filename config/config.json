@@ -1,0 +1,15 @@
+{
+  "collection": "https://cdm16042.contentdm.oclc.org/iiif/2/p16042coll10/manifest.json",
+  "devCollection": "https://cdm16042.contentdm.oclc.org/iiif/2/p16042coll10/manifest.json",
+  "featured": [
+    "https://cdm16042.contentdm.oclc.org/iiif/p16042coll10:1780/manifest.json"
+  ],
+  "metadata": ["Date", "Coverage"],
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "red",
+    "grayColor": "mauve",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
