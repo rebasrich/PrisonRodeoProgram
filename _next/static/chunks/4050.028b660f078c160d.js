@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4050],{64050:function(t){t.exports=JSON.parse('[{"path":"/about","text":"About"},{"path":"/about/explore","text":"Explore Program Booklets"},{"path":"/about/history","text":"Prison Rodeo History"},{"path":"/about/museum","text":"Texas Prison Museum"},{"path":"/about/research","text":"Related Research"}]')}}]);
