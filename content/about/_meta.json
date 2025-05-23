@@ -4,7 +4,19 @@
     "text": "About"
   },
   {
-    "path": "/about/example",
-    "text": "Markdown Example"
+    "path": "/about/explore",
+    "text": "Explore Program Booklets"
+  },
+  {
+    "path": "/about/history",
+    "text": "Prison Rodeo History"
+  },
+  {
+    "path": "/about/museum",
+    "text": "Texas Prison Museum"
+  },
+  {
+    "path": "/about/research",
+    "text": "Related Research"
   }
 ]

@@ -7,7 +7,7 @@
   "metadata": ["Date", "Coverage"],
   "theme": {
     "defaultTheme": "light",
-    "accentColor": "red",
+    "accentColor": "indigo",
     "grayColor": "mauve",
     "radius": "small",
     "scaling": "100%"
